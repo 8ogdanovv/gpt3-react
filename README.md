@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+**gpt3_jsm Project**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The gpt3_jsm project is a web application that showcases the capabilities of the GPT-3 OpenAI model. This README provides an overview of the project and highlights its key features.
 
-In the project directory, you can run:
+**Project Screenshot**
 
-### `npm start`
+[![Project Screenshot](https://github.com/vadym4che/gpt3-react/blob/main/screenshot.png)](https://vadym4che.github.io/gpt3-react/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Technologies Used**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React: A JavaScript library for building user interfaces.
+- react-icons: A library for adding icons to React applications.
+- gh-pages: A tool for deploying React apps to GitHub Pages.
 
-### `npm test`
+**Installation**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this project locally, follow these steps:
 
-### `npm run build`
+1. Clone the repository to your local machine.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Navigate to the project directory using the command line.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Install the project dependencies by running:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. Start the development server:
 
-### `npm run eject`
+5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the app.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Usage**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Enter your email address in the input field on the homepage.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Click the "Get Started" button to explore the project and its features.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Learn about the capabilities of the GPT-3 OpenAI model and how it can be used to build amazing applications.
 
-## Learn More
+- Stay informed about the project and its updates.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Author**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project was created by Vadym Chervoniak.
 
-### Code Splitting
+**Additional Information**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- The project uses the BEM (Block Element Modifier) methodology for styling.
+- Custom fonts are imported from Google Fonts.
+- Responsive design ensures a seamless experience on various screen sizes.
